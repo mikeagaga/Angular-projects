@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Miguel",
+      "lastName": "A Garcia Garro",
+      "email": "miguelangel.garciagarro@gmail.com",
+      "dob": "2023-05-09T22:00:00.000Z",
+      "gender": "",
+      "education": "Diploma",
+      "company": "google",
+      "experience": 20,
+      "package": 8000000,
+      "id": 1
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 2
+    }
+  ]
+}
