@@ -28,18 +28,6 @@
       "experience": 20,
       "package": 8000000,
       "id": 1
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "dob": "",
-      "gender": "",
-      "education": "",
-      "company": "",
-      "experience": "",
-      "package": "",
-      "id": 2
     }
   ]
 }
